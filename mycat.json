@@ -201,16 +201,6 @@
       "categories": []
     },
     {
-      "key": "独播库",
-      "name": "独播库",
-      "type": 0,
-      "api": "https://cj.apibdzy.com/inc/api.php",
-      "playUrl": "",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": []
-    },
-    {
       "key": "北斗星",
       "name": "北斗星",
       "type": 0,
