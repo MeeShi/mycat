@@ -1462,5 +1462,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://raw.staticdn.net/catvod/CatVodTVSpider/master/jar/custom_spider.jar"
+  "spider": "https://ghproxy.com/https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar"
 }
