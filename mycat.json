@@ -1,39 +1,6 @@
 {
   "sites": [
     {
-      "key": "nfzjm_spider",
-      "name": "南府追剧(AT)",
-      "type": 3,
-      "api": "csp_Nfzjm",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ysgc_spider",
-      "name": "影视工厂(V0)",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "zjdr_spider",
-      "name": "追剧达人(V0)",
-      "type": 3,
-      "api": "csp_Zjdr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "auete_spider",
-      "name": "Auete影视(SP)",
-      "type": 3,
-      "api": "csp_Auete",
-    },
-    {
       "key": "csp_xpath_miniku",
       "name": "Miniku(XPath)",
       "type": 3,
