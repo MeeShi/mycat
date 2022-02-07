@@ -1,5 +1,4 @@
 # 国内地址
-## https://ghproxy.com/https://github.com/rootknight/mycat/blob/main/mycat.json
 
-## https://cdn.jsdelivr.net/gh/rootknight/mycat/mycat.json
+## https://cdn.jsdelivr.net/gh/MeeShi/mycat/mycat.json
 
